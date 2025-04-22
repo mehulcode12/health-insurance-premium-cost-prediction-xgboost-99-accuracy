@@ -74,16 +74,16 @@ streamlit run app.py
 ### 👶 Age ≤ 25 (Linear Regression + Genetical Risk)
 - **R² (Train/Test):** ~0.99 / 0.99
 - 📉 Residuals:  
-  ![Young Error](artifacts/young_with_gr_error.png)
+  ![Young Error](artifacts\young_with_gr_error.png)
 - ✅ Accuracy:  
-  ![Young Accuracy](artifacts/young_with_gr_accuracy.png)
+  ![Young Accuracy](artifacts\young_with_gr_accuracy.png)
 
 ### 🧓 Age > 25 (XGBoost + Genetical Risk)
 - **R² (Train/Test/CV):** ~0.997 / 0.997 / 0.997
 - 📉 Residuals:  
-  ![Rest Error](artifacts/rest_with_gr_error.png)
+  ![Rest Error](artifacts\rest_with_gr_error.png)
 - ✅ Accuracy:  
-  ![Rest Accuracy](artifacts/rest_with_gr_accuracy.png)
+  ![Rest Accuracy](artifacts\rest_with_gr_accuracy.png)
 
 ---
 
